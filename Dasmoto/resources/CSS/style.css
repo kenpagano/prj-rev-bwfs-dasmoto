@@ -1,0 +1,33 @@
+* {
+font-family: helvetica;
+}
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+  font-weight: bold;
+  color: khaki;
+  background-image: url("C:/Users/JAOP/Downloads/atom-windows/Atom/projects/Dasmoto/resources/pattern.jpeg");
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.medium-spring-green {
+  background-color: mediumspringgreen;
+}
+
+.lightcoral {
+  background-color: lightcoral;
+}
+
+.skyblue {
+  background-color: skyblue;
+}
+
+strong {
+  color: blue;
+}
